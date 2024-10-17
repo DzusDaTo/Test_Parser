@@ -1,0 +1,482 @@
+[
+    {
+        "id": "62828",
+        "name": "Кофе Julius Meinl Президент классическая коллекция в зернах, 1кг",
+        "link": "/products/julius-meinl-prezident-1000g",
+        "regular_price": "2349",
+        "promo_price": "1499",
+        "brand": "Кофе Julius"
+    },
+    {
+        "id": "122743",
+        "name": "Кофе Нескафе Голд растворимый сублимированный с добавлением натурального жареного молотого кофе, 900г",
+        "link": "/products/kofe-nescafe-gold-rastvorimiy-sublimirovanniy-s-dobavleniem-naturalnogo-zharenogo-molotogo-kofe-900g",
+        "regular_price": "Неизвестно",
+        "promo_price": "2389",
+        "brand": "Кофе Нескафе"
+    },
+    {
+        "id": "580564",
+        "name": "Кофе Egoiste Arabica Premium натуральный жареный в зернах, 1кг",
+        "link": "/products/egoiste-v-zernah-naturalnyj-zharenyj-arabica-premium-1kg",
+        "regular_price": "2199",
+        "promo_price": "1599",
+        "brand": "Кофе Egoiste"
+    },
+    {
+        "id": "287770",
+        "name": "RIOBA Кофе в зернах натуральный жареный Silver, 1кг",
+        "link": "/products/rioba-v-zernah-naturalnyj-zharenyj-silver-1kg",
+        "regular_price": "1419",
+        "promo_price": "1099",
+        "brand": "RIOBA Кофе"
+    },
+    {
+        "id": "36574",
+        "name": "Кофе Bushido Red Katana в зернах, 1кг",
+        "link": "/products/bushido-red-1000g",
+        "regular_price": "2519",
+        "promo_price": "1899",
+        "brand": "Кофе Bushido"
+    },
+    {
+        "id": "59409",
+        "name": "Кофе Fresco Arabica Solo в зернах, 1кг",
+        "link": "/products/fresco-arabica-solo-v-zernah-1000-g",
+        "regular_price": "1639",
+        "promo_price": "1299",
+        "brand": "Кофе Fresco"
+    },
+    {
+        "id": "654820",
+        "name": "Кофе Julius Meinl Caffe Crema Intenso Trend Collection в зернах, 1кг",
+        "link": "/products/v-zernah-julius-meinl-krema-intenso-trend-kollekciya-1000g",
+        "regular_price": "2079",
+        "promo_price": "1399",
+        "brand": "Кофе Julius"
+    },
+    {
+        "id": "246502",
+        "name": "Кофе Bushido Sensei зерновой, 1кг",
+        "link": "/products/kofe-bushido-sensei-zernovoy-1kg",
+        "regular_price": "2849",
+        "promo_price": "1899",
+        "brand": "Кофе Bushido"
+    },
+    {
+        "id": "112993",
+        "name": "Кофе Egoiste трюфель крема в зернах, 1кг",
+        "link": "/products/kofe-v-zernah-egoiste-tryufel-krema-1kg",
+        "regular_price": "2329",
+        "promo_price": "1699",
+        "brand": "Кофе Egoiste"
+    },
+    {
+        "id": "228291",
+        "name": "Кофе Egoiste Voyage в зернах, 1кг",
+        "link": "/products/1kg-kofe-egoiste-voyage-v-zernah",
+        "regular_price": "2369",
+        "promo_price": "1699",
+        "brand": "Кофе Egoiste"
+    },
+    {
+        "id": "110546",
+        "name": "Кофе Bushido Black Katana в зернах, 1кг",
+        "link": "/products/kofe-zernovoj-bushido-black-katana-1000g",
+        "regular_price": "2999",
+        "promo_price": "1899",
+        "brand": "Кофе Bushido"
+    },
+    {
+        "id": "287769",
+        "name": "RIOBA Кофе в зернах натуральный жареный 80:20, 1кг",
+        "link": "/products/rioba-v-zernah-naturalnyj-zharenyj-gold-1kg",
+        "regular_price": "1609",
+        "promo_price": "1499",
+        "brand": "RIOBA Кофе"
+    },
+    {
+        "id": "598958",
+        "name": "Кофе Bushido Kodo растворимый, 95г",
+        "link": "/products/bushido-v-kristallah-kodo-95g",
+        "regular_price": "999",
+        "promo_price": "749",
+        "brand": "Кофе Bushido"
+    },
+    {
+        "id": "365548",
+        "name": "Кофе Alta Roma Espresso в зернах, 1кг",
+        "link": "/products/kofe-alta-roma-espresso-v-zernakh-1kg",
+        "regular_price": "1459",
+        "promo_price": "1099",
+        "brand": "Кофе Alta"
+    },
+    {
+        "id": "101497",
+        "name": "Кофе Jardin Eclair в зернах, 1кг",
+        "link": "/products/jardin-eclair-1000g",
+        "regular_price": "2099",
+        "promo_price": "1199",
+        "brand": "Кофе Jardin"
+    },
+    {
+        "id": "427833",
+        "name": "Кофе Lavazza Qualita Oro натуральный жареный в зернах, 1кг",
+        "link": "/products/v-zernah-lavazza-naturalnyj-zharenyj-qualita-oro-1kg",
+        "regular_price": "2499",
+        "promo_price": "2149",
+        "brand": "Кофе Lavazza"
+    },
+    {
+        "id": "72533",
+        "name": "Набор кофе в капсулах Coffesso для кофемашин Nespresso ассорти 50шт, 250г",
+        "link": "/products/coffesso-nabor-v-kapsulah-50-sht-h-5-g",
+        "regular_price": "1669",
+        "promo_price": "1099",
+        "brand": "Набор кофе"
+    },
+    {
+        "id": "230302",
+        "name": "Кофе Monarch Original растворимый, 210г",
+        "link": "/products/kofe-monarch-original-rastvorimyy-210g",
+        "regular_price": "619",
+        "promo_price": "599",
+        "brand": "Кофе Monarch"
+    },
+    {
+        "id": "287768",
+        "name": "RIOBA Кофе в зернах натуральный жареный 100% арабика Espresso, 1кг",
+        "link": "/products/rioba-v-zernah-naturalnyj-zharenyj-100-arabika-espresso-1kg",
+        "regular_price": "1609",
+        "promo_price": "1499",
+        "brand": "RIOBA Кофе"
+    },
+    {
+        "id": "247918",
+        "name": "Кофе Poetti Professional Aroma Vending зерновой, 1кг",
+        "link": "/products/1kg-kofe-poetti-professional-aroma-vending-zernovoy",
+        "regular_price": "1639",
+        "promo_price": "1099",
+        "brand": "Кофе Poetti"
+    },
+    {
+        "id": "112992",
+        "name": "Кофе Egoiste гранд крю в зернах, 1кг",
+        "link": "/products/kofe-v-zernah-egoiste-grand-kryu-1kg",
+        "regular_price": "3339",
+        "promo_price": "1999",
+        "brand": "Кофе Egoiste"
+    },
+    {
+        "id": "654819",
+        "name": "Кофе Julius Meinl Espresso Premium Collection в зернах, 1кг",
+        "link": "/products/v-zernah-julius-meinl-espresso-premium-kollekciya-1000g",
+        "regular_price": "2649",
+        "promo_price": "1799",
+        "brand": "Кофе Julius"
+    },
+    {
+        "id": "654817",
+        "name": "Кофе Julius Meinl Trend Collection Espresso Classico в зернах, 1кг",
+        "link": "/products/julius-meinl-espresso-trend-1kg",
+        "regular_price": "2299",
+        "promo_price": "1499",
+        "brand": "Кофе Julius"
+    },
+    {
+        "id": "228231",
+        "name": "Кофе Piazza del Caffe Crema Vellutata в зернах, 1кг",
+        "link": "/products/1kg-kofe-piazza-del-caffe-crema-vellutata-zerno",
+        "regular_price": "1259",
+        "promo_price": "1099",
+        "brand": "Кофе Piazza"
+    },
+    {
+        "id": "123742",
+        "name": "Кофе Нескафе Классик растворимый, 900г",
+        "link": "/products/900g-nescafe-classic",
+        "regular_price": "1569",
+        "promo_price": "1299",
+        "brand": "Кофе Нескафе"
+    },
+    {
+        "id": "654818",
+        "name": "Кофе Julius Meinl Сaffe Crema Premium Collection в зернах, 1кг",
+        "link": "/products/julius-meinl-krema-premium-1kg",
+        "regular_price": "2479",
+        "promo_price": "1669",
+        "brand": "Кофе Julius"
+    },
+    {
+        "id": "104561",
+        "name": "Кофе Fresco Blend в зернах, 1кг",
+        "link": "/products/fresco-blend-1000g",
+        "regular_price": "1639",
+        "promo_price": "1299",
+        "brand": "Кофе Fresco"
+    },
+    {
+        "id": "75654",
+        "name": "Кофе Carte Noire Original растворимый сублимированный, 190г",
+        "link": "/products/carte-noire-sublimirovannyj-original-190g",
+        "regular_price": "1189",
+        "promo_price": "999",
+        "brand": "Кофе Carte"
+    },
+    {
+        "id": "59004",
+        "name": "Кофе Bushido Red Katana молотый, 227г",
+        "link": "/products/art-59004",
+        "regular_price": "689",
+        "promo_price": "479",
+        "brand": "Кофе Bushido"
+    },
+    {
+        "id": "407891",
+        "name": "Кофе Egoiste Special растворимый сублимированный с молотым, 100г",
+        "link": "/products/egoiste-sublimirovannnyj-s-molotym-special-100g",
+        "regular_price": "849",
+        "promo_price": "759",
+        "brand": "Кофе Egoiste"
+    },
+    {
+        "id": "62828",
+        "name": "Кофе Julius Meinl Президент классическая коллекция в зернах, 1кг",
+        "link": "/products/julius-meinl-prezident-1000g",
+        "regular_price": "2349",
+        "promo_price": "1499",
+        "brand": "Кофе Julius"
+    },
+    {
+        "id": "122743",
+        "name": "Кофе Нескафе Голд растворимый сублимированный с добавлением натурального жареного молотого кофе, 900г",
+        "link": "/products/kofe-nescafe-gold-rastvorimiy-sublimirovanniy-s-dobavleniem-naturalnogo-zharenogo-molotogo-kofe-900g",
+        "regular_price": "Неизвестно",
+        "promo_price": "2389",
+        "brand": "Кофе Нескафе"
+    },
+    {
+        "id": "580564",
+        "name": "Кофе Egoiste Arabica Premium натуральный жареный в зернах, 1кг",
+        "link": "/products/egoiste-v-zernah-naturalnyj-zharenyj-arabica-premium-1kg",
+        "regular_price": "2199",
+        "promo_price": "1599",
+        "brand": "Кофе Egoiste"
+    },
+    {
+        "id": "287770",
+        "name": "RIOBA Кофе в зернах натуральный жареный Silver, 1кг",
+        "link": "/products/rioba-v-zernah-naturalnyj-zharenyj-silver-1kg",
+        "regular_price": "1419",
+        "promo_price": "1099",
+        "brand": "RIOBA Кофе"
+    },
+    {
+        "id": "36574",
+        "name": "Кофе Bushido Red Katana в зернах, 1кг",
+        "link": "/products/bushido-red-1000g",
+        "regular_price": "2519",
+        "promo_price": "1899",
+        "brand": "Кофе Bushido"
+    },
+    {
+        "id": "59409",
+        "name": "Кофе Fresco Arabica Solo в зернах, 1кг",
+        "link": "/products/fresco-arabica-solo-v-zernah-1000-g",
+        "regular_price": "1639",
+        "promo_price": "1299",
+        "brand": "Кофе Fresco"
+    },
+    {
+        "id": "654820",
+        "name": "Кофе Julius Meinl Caffe Crema Intenso Trend Collection в зернах, 1кг",
+        "link": "/products/v-zernah-julius-meinl-krema-intenso-trend-kollekciya-1000g",
+        "regular_price": "2079",
+        "promo_price": "1399",
+        "brand": "Кофе Julius"
+    },
+    {
+        "id": "246502",
+        "name": "Кофе Bushido Sensei зерновой, 1кг",
+        "link": "/products/kofe-bushido-sensei-zernovoy-1kg",
+        "regular_price": "2849",
+        "promo_price": "1899",
+        "brand": "Кофе Bushido"
+    },
+    {
+        "id": "112993",
+        "name": "Кофе Egoiste трюфель крема в зернах, 1кг",
+        "link": "/products/kofe-v-zernah-egoiste-tryufel-krema-1kg",
+        "regular_price": "2329",
+        "promo_price": "1699",
+        "brand": "Кофе Egoiste"
+    },
+    {
+        "id": "228291",
+        "name": "Кофе Egoiste Voyage в зернах, 1кг",
+        "link": "/products/1kg-kofe-egoiste-voyage-v-zernah",
+        "regular_price": "2369",
+        "promo_price": "1699",
+        "brand": "Кофе Egoiste"
+    },
+    {
+        "id": "110546",
+        "name": "Кофе Bushido Black Katana в зернах, 1кг",
+        "link": "/products/kofe-zernovoj-bushido-black-katana-1000g",
+        "regular_price": "2999",
+        "promo_price": "1899",
+        "brand": "Кофе Bushido"
+    },
+    {
+        "id": "287769",
+        "name": "RIOBA Кофе в зернах натуральный жареный 80:20, 1кг",
+        "link": "/products/rioba-v-zernah-naturalnyj-zharenyj-gold-1kg",
+        "regular_price": "1609",
+        "promo_price": "1499",
+        "brand": "RIOBA Кофе"
+    },
+    {
+        "id": "598958",
+        "name": "Кофе Bushido Kodo растворимый, 95г",
+        "link": "/products/bushido-v-kristallah-kodo-95g",
+        "regular_price": "999",
+        "promo_price": "749",
+        "brand": "Кофе Bushido"
+    },
+    {
+        "id": "365548",
+        "name": "Кофе Alta Roma Espresso в зернах, 1кг",
+        "link": "/products/kofe-alta-roma-espresso-v-zernakh-1kg",
+        "regular_price": "1459",
+        "promo_price": "1099",
+        "brand": "Кофе Alta"
+    },
+    {
+        "id": "101497",
+        "name": "Кофе Jardin Eclair в зернах, 1кг",
+        "link": "/products/jardin-eclair-1000g",
+        "regular_price": "2099",
+        "promo_price": "1199",
+        "brand": "Кофе Jardin"
+    },
+    {
+        "id": "427833",
+        "name": "Кофе Lavazza Qualita Oro натуральный жареный в зернах, 1кг",
+        "link": "/products/v-zernah-lavazza-naturalnyj-zharenyj-qualita-oro-1kg",
+        "regular_price": "2499",
+        "promo_price": "2149",
+        "brand": "Кофе Lavazza"
+    },
+    {
+        "id": "72533",
+        "name": "Набор кофе в капсулах Coffesso для кофемашин Nespresso ассорти 50шт, 250г",
+        "link": "/products/coffesso-nabor-v-kapsulah-50-sht-h-5-g",
+        "regular_price": "1669",
+        "promo_price": "1099",
+        "brand": "Набор кофе"
+    },
+    {
+        "id": "230302",
+        "name": "Кофе Monarch Original растворимый, 210г",
+        "link": "/products/kofe-monarch-original-rastvorimyy-210g",
+        "regular_price": "619",
+        "promo_price": "599",
+        "brand": "Кофе Monarch"
+    },
+    {
+        "id": "287768",
+        "name": "RIOBA Кофе в зернах натуральный жареный 100% арабика Espresso, 1кг",
+        "link": "/products/rioba-v-zernah-naturalnyj-zharenyj-100-arabika-espresso-1kg",
+        "regular_price": "1609",
+        "promo_price": "1499",
+        "brand": "RIOBA Кофе"
+    },
+    {
+        "id": "247918",
+        "name": "Кофе Poetti Professional Aroma Vending зерновой, 1кг",
+        "link": "/products/1kg-kofe-poetti-professional-aroma-vending-zernovoy",
+        "regular_price": "1639",
+        "promo_price": "1099",
+        "brand": "Кофе Poetti"
+    },
+    {
+        "id": "112992",
+        "name": "Кофе Egoiste гранд крю в зернах, 1кг",
+        "link": "/products/kofe-v-zernah-egoiste-grand-kryu-1kg",
+        "regular_price": "3339",
+        "promo_price": "1999",
+        "brand": "Кофе Egoiste"
+    },
+    {
+        "id": "654819",
+        "name": "Кофе Julius Meinl Espresso Premium Collection в зернах, 1кг",
+        "link": "/products/v-zernah-julius-meinl-espresso-premium-kollekciya-1000g",
+        "regular_price": "2649",
+        "promo_price": "1799",
+        "brand": "Кофе Julius"
+    },
+    {
+        "id": "654817",
+        "name": "Кофе Julius Meinl Trend Collection Espresso Classico в зернах, 1кг",
+        "link": "/products/julius-meinl-espresso-trend-1kg",
+        "regular_price": "2299",
+        "promo_price": "1499",
+        "brand": "Кофе Julius"
+    },
+    {
+        "id": "228231",
+        "name": "Кофе Piazza del Caffe Crema Vellutata в зернах, 1кг",
+        "link": "/products/1kg-kofe-piazza-del-caffe-crema-vellutata-zerno",
+        "regular_price": "1259",
+        "promo_price": "1099",
+        "brand": "Кофе Piazza"
+    },
+    {
+        "id": "123742",
+        "name": "Кофе Нескафе Классик растворимый, 900г",
+        "link": "/products/900g-nescafe-classic",
+        "regular_price": "1569",
+        "promo_price": "1299",
+        "brand": "Кофе Нескафе"
+    },
+    {
+        "id": "654818",
+        "name": "Кофе Julius Meinl Сaffe Crema Premium Collection в зернах, 1кг",
+        "link": "/products/julius-meinl-krema-premium-1kg",
+        "regular_price": "2479",
+        "promo_price": "1669",
+        "brand": "Кофе Julius"
+    },
+    {
+        "id": "104561",
+        "name": "Кофе Fresco Blend в зернах, 1кг",
+        "link": "/products/fresco-blend-1000g",
+        "regular_price": "1639",
+        "promo_price": "1299",
+        "brand": "Кофе Fresco"
+    },
+    {
+        "id": "75654",
+        "name": "Кофе Carte Noire Original растворимый сублимированный, 190г",
+        "link": "/products/carte-noire-sublimirovannyj-original-190g",
+        "regular_price": "1189",
+        "promo_price": "999",
+        "brand": "Кофе Carte"
+    },
+    {
+        "id": "59004",
+        "name": "Кофе Bushido Red Katana молотый, 227г",
+        "link": "/products/art-59004",
+        "regular_price": "689",
+        "promo_price": "479",
+        "brand": "Кофе Bushido"
+    },
+    {
+        "id": "407891",
+        "name": "Кофе Egoiste Special растворимый сублимированный с молотым, 100г",
+        "link": "/products/egoiste-sublimirovannnyj-s-molotym-special-100g",
+        "regular_price": "849",
+        "promo_price": "759",
+        "brand": "Кофе Egoiste"
+    }
+]
